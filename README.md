@@ -30,7 +30,9 @@ sudo apt-get install apache2
 	$database = "";
 ?>
 ```
-1 hostname - the address from host. Use feedback loop (127.0.0.1) if you don't have WAN IP.
-2 username - the name of MySQL user.
-3 password - password to access.
-4 database - name of database.
+<p align="right">
+- hostname - the address from host. Use feedback loop (127.0.0.1) if you don't have WAN IP.
+- username - the name of MySQL user.
+- password - password to access.
+- database - name of database.
+</p>
