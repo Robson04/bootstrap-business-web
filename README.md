@@ -20,3 +20,17 @@ sudo apt-get update
 sudo apt-get install apache2
 ```
 <p align="right">How to install MySQL and more commands which you need you should find on any page in Internet. Let's move to next step.</p>
+
+### Configure the mysql.php file to connect with database.
+```php
+<?php
+	$hostname = "";
+	$username = "";
+	$password = "";
+	$database = "";
+?>
+```
+- hostname - the address from host. Use feedback loop (127.0.0.1) if you don't have WAN IP.
+- username - the name of MySQL user.
+- password - password to access.
+- database - name of database.
