@@ -14,6 +14,7 @@ You must have Apache and MySQL on your computer/server to init website. It's com
 If you uses Windows you're in the best way. Download XAMPP from the official site to your computer and install. Start service and you're welcome!
 But if you working on Linux system you must update your packages and download Apache and MySQL.
 </p>
+
 ```
 sudo apt-get update
 sudo apt-get install apache2
