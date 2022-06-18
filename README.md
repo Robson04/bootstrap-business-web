@@ -27,7 +27,7 @@ sudo apt-get install apache2
 	$hostname = "127.0.0.1";
 	$username = "root";
 	$password = "";
-	$database = "mywebsite";
+	$database = "website";
 ?>
 ```
 <p align="right">
