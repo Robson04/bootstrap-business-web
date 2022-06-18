@@ -24,10 +24,10 @@ sudo apt-get install apache2
 ### 🔗 Configure the mysql.php file to connect with database.
 ```php
 <?php
-	$hostname = "";
-	$username = "";
+	$hostname = "127.0.0.1";
+	$username = "root";
 	$password = "";
-	$database = "";
+	$database = "mywebsite";
 ?>
 ```
 <p align="right">
